@@ -48,3 +48,7 @@ body {
   height: 50px;
   background: rgba(0,0,0,0.3);
 }
+
+.carousel-inner {
+  background: #000;
+}
