@@ -4,13 +4,15 @@ project: 蜂巢聚创
 page:
   - title: 关于我们
     url: about.html
-  - title: 使命
+  - title: 我们的使命
     url: mission.html
-  - title: 服务
+  - title: 我们的目标和服务
     url: services.html
-  - title: 创始人团队
+  - title: 创始和执行团队
     url: founders.html
-  - title: 导师团队
+  - title: 顾问团
     url: advisors.html
+  - title: 创业导师
+    url: mentors.html
   - title: 蜂巢推荐
     url: posts.html
