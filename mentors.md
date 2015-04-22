@@ -10,9 +10,6 @@ title: 创业导师
 ## 唐马克
 WTVC董事总经理，合伙人
 
-## 刘桑田
-Digital Message, 创始人
-
 ## 王晓捷
 BZM，Director
 

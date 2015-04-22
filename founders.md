@@ -24,3 +24,7 @@ title: 创始和执行团队
 
 ## 周谷声
 资深企业家，已先后在美国和中国创办多家企业。
+
+## 刘桑田
+Digital Message, 创始人, 前高级前端开发工程师，曾任Bloomsburg University 和St. John’s University 物理助理教授
+
