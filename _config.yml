@@ -16,3 +16,5 @@ page:
     url: mentors.html
   - title: 蜂巢推荐
     url: posts.html
+  - title: 联系我们
+    url: contact.html
