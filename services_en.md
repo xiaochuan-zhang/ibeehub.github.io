@@ -1,4 +1,4 @@
-# Our goal and services
+# Objective and Service
 
 Ibeehub, located in New York City, the world's financial center, fully taps two largest economy in the world-US and China. It involves various kinds of fields, such as finance, technology, education, medicine and health, culture and fashion, and media. 
 Based on the principle of co-thinking, partnership,  joint development and sharing,  ibeehub creates a cross-border, trans-generational, cross-cultural business service platform with Internet. 
