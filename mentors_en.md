@@ -4,11 +4,11 @@ title: 创业导师
 ---
 # Mentors
 
-## Wenjing Zhu
-Outstanding experts of science and technology of Dell's supply chain Institute, CTO of the cloud computing 
+## Wenjing Chu
+Distingushed technologist at Dell research Institute, CTO of NFV architecture
 
-## Mark Tang
-CEO at World Tech Ventures LLC
+## Dr. Mark Tang
+Managing director and partner at World Tech Ventures LLC
 
 ## Xiaojie Wang
 Director of BZM
@@ -16,8 +16,8 @@ Director of BZM
 ## Jian Zhang
 Founder of Sino-American life science and technology investment funds
 
-## Ms. Yao Liu
-Vice president in Shanghai Jiayin Financial Services 
+## Yao Liu
+Vice President at Niwodai online lending platform (Shanghai Jiayin Financial Services)
 
 ## Dr. Sherry Sun
-CEO and President of the Great China region of g-MEO
+President of the Greater China region operation at g-MEO (Global Maximum Educational Opportunities, Inc)
